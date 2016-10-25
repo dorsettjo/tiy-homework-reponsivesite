@@ -1,0 +1,64 @@
+.heroimage {
+    background-image: url("../images/heroimage.jpeg");
+    background-size: cover;
+    height: 400px;
+}
+
+.mainbody {
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: blue
+
+}
+
+.logo {
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  color: white;
+
+}
+
+.box {
+  float: left;
+  width: 30%;
+
+}
+
+.green {
+  background-color: green;
+  color: white;
+
+}
+
+.blue {
+  background-color: blue;
+}
+
+.black {
+  background-color: black;
+}
+
+.gray {
+  float: left;
+  width: 30%;
+  background-color: lightgrey;
+}
+.paragraphtitle {
+  clear:both;
+  color: darkgray;
+  font-weight: bold;
+}
+
+.p {
+  color:gray;
+  font-weight: lighter;
+
+}
+
+
+.footer {
+  width: 100%;
+  background-color: black;
+  test-color: white;
+}
